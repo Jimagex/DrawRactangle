@@ -1,0 +1,11 @@
+D:\Project\PlatformComponent\WinComponent\WinComponent\bin\Debug\WinComponent.exe.config
+D:\Project\PlatformComponent\WinComponent\WinComponent\bin\Debug\WinComponent.exe
+D:\Project\PlatformComponent\WinComponent\WinComponent\bin\Debug\WinComponent.pdb
+D:\Project\PlatformComponent\WinComponent\WinComponent\obj\Debug\WinComponent.csproj.AssemblyReference.cache
+D:\Project\PlatformComponent\WinComponent\WinComponent\obj\Debug\WinComponent.csproj.SuggestedBindingRedirects.cache
+D:\Project\PlatformComponent\WinComponent\WinComponent\obj\Debug\WinComponent.Properties.Resources.resources
+D:\Project\PlatformComponent\WinComponent\WinComponent\obj\Debug\WinComponent.csproj.GenerateResource.cache
+D:\Project\PlatformComponent\WinComponent\WinComponent\obj\Debug\WinComponent.csproj.CoreCompileInputs.cache
+D:\Project\PlatformComponent\WinComponent\WinComponent\obj\Debug\WinComponent.exe
+D:\Project\PlatformComponent\WinComponent\WinComponent\obj\Debug\WinComponent.pdb
+D:\Project\PlatformComponent\WinComponent\WinComponent\obj\Debug\WinComponent.Form1.resources
